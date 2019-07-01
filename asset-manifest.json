@@ -1,13 +1,15 @@
 {
-  "main.css": "/react-counters/static/css/main.d8ec6454.chunk.css",
-  "main.js": "/react-counters/static/js/main.ee4c54ff.chunk.js",
-  "main.js.map": "/react-counters/static/js/main.ee4c54ff.chunk.js.map",
-  "runtime~main.js": "/react-counters/static/js/runtime~main.9b21b908.js",
-  "runtime~main.js.map": "/react-counters/static/js/runtime~main.9b21b908.js.map",
-  "static/js/2.6a200d06.chunk.js": "/react-counters/static/js/2.6a200d06.chunk.js",
-  "static/js/2.6a200d06.chunk.js.map": "/react-counters/static/js/2.6a200d06.chunk.js.map",
-  "index.html": "/react-counters/index.html",
-  "precache-manifest.f0eec3fa840c20d5d1fdd104f9348753.js": "/react-counters/precache-manifest.f0eec3fa840c20d5d1fdd104f9348753.js",
-  "service-worker.js": "/react-counters/service-worker.js",
-  "static/css/main.d8ec6454.chunk.css.map": "/react-counters/static/css/main.d8ec6454.chunk.css.map"
+  "files": {
+    "main.css": "/react-counters/static/css/main.584f321a.chunk.css",
+    "main.js": "/react-counters/static/js/main.c23a3963.chunk.js",
+    "main.js.map": "/react-counters/static/js/main.c23a3963.chunk.js.map",
+    "runtime~main.js": "/react-counters/static/js/runtime~main.9b21b908.js",
+    "runtime~main.js.map": "/react-counters/static/js/runtime~main.9b21b908.js.map",
+    "static/js/2.0e47117e.chunk.js": "/react-counters/static/js/2.0e47117e.chunk.js",
+    "static/js/2.0e47117e.chunk.js.map": "/react-counters/static/js/2.0e47117e.chunk.js.map",
+    "index.html": "/react-counters/index.html",
+    "precache-manifest.99f4465c71f07691e05ae7e24bb1b3b6.js": "/react-counters/precache-manifest.99f4465c71f07691e05ae7e24bb1b3b6.js",
+    "service-worker.js": "/react-counters/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/react-counters/static/css/main.584f321a.chunk.css.map"
+  }
 }
